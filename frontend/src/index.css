@@ -1,0 +1,10 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.Container {
+  height: 100vh;
+  width: 100%;
+  background: linear-gradient(45deg,red,green,yellow,blue);
+}
